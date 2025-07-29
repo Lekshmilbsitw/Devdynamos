@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/745c3ee2-4cc2-42b5-a50d-7e14bd9b5a82" />
 # Devdynamos
 # 💻 My Interactive Portfolio
 
@@ -29,12 +30,12 @@ This project showcases my skills, projects, and background in web development, w
 
 ## 📂 Folder Structure
 
-
-
----
-
-
-
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/745c3ee2-4cc2-42b5-a50d-7e14bd9b5a82" />
 
 ---
+
+
+
+
+
 

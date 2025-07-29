@@ -1,12 +1,6 @@
 # Devdynamos
 # 💻 My Interactive Portfolio
 
-# 💻 My Interactive Portfolio
-
-# 💻 My Interactive Portfolio
-
-# 💻 My Interactive Portfolio
-
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and background in web development, with a sleek, responsive design built using HTML, CSS.
 ---
